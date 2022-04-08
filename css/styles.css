@@ -1,0 +1,148 @@
+/* logo */
+.logo {
+    color: #000000;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.192;
+    letter-spacing: 0.03em;
+    font-family: "Raleway", Tahoma, sans-serif;
+    font-style: Bold;
+    text-decoration: none;
+}
+body {
+    font-family: "Roboto", Tahoma, sans-serif;
+}
+/* contacts */
+
+.contacts {
+    color: #757575; 
+    }
+.menu,
+.contacts {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+/* menu */
+.menu {
+    color: #212121;
+}
+.menu:hover,
+.menu:focus,
+.contacts:hover,
+.contacts:focus {
+    color: #2196F3;
+}
+/* hero */
+.hero {
+    background-color: #2F303A;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.hero-name {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-transform: uppercase;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.hero-button {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    display: flex;
+    align-items: center;
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    cursor: pointer;
+}
+.text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.titel {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.143;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;    
+}
+.command {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.172;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.command-titel {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.187;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+.position-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.187;
+    text-align: center;
+    letter-spacing: 0.03em;    
+}
+/* footer */
+.footer {
+    background-color:  #2F303A;
+}
+.footer-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    
+} 
+.footer-list-adress {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-list-contacts {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+/* main portfolio */
+   .filter-list {
+    font-family: "Roboto", Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    text-decoration: none; 
+}
+.filter-button {
+    color: #212121;
+}
+.filter-button:hover,
+.filter-button:focus {
+    background-color: #2196F3;
+}
+.titel-filter {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.text-filter {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.188;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
